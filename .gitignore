@@ -1,0 +1,10 @@
+logs/
+*.pyc
+.pytest_cache/
+*.pid
+standalone_admin_password.txt
+airflow.db
+settings.json
+webserver_config.py
+airflow.cfg
+airflow_venv/
